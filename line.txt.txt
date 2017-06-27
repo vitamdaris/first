@@ -2,6 +2,6 @@ this is first line on git hihi :)
 
 third line commit
 fourth line
-first on new branch
+first on (insert a line) new branch
 second on new branch
 5th line on master hihi
