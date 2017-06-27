@@ -6,3 +6,4 @@ first on new branch
 (insert a line)
 second on new branch
 5th line on master hihi
+first line on thirdBranch
